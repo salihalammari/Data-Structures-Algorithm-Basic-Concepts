@@ -24,3 +24,27 @@
 	<em>Examples of non-linear data structures are trees and graphs.</em></li>
 </ul>
 
+####What is a data structure?
+
+Data structures, as the term implies, are a way of structuring data in order to efficiently store, find, use, and create data, depending on the task at hand. If data is a plate of food, data structures are your utensils (algorithms would be how to effectively use those utensils in this analogy). Just as you will likely select a spoon to eat a bowl of soup rather than a knife, you will learn over time to select and properly use data structures which fit the nature of the data you are working with. When you begin learning basic data structures such as arrays and linked lists, you will start to conceptualize how data is stored, searched, and edited, and what these operations will contribute to the space/time complexity of your program at runtime (this will make more sense once you start to learn about Big O notation). As you continue to learn more complex data structures, you may notice that you need to think more abstractly and deliberately in order to properly implement them. But with patience and practice you will begin to see patterns emerge that will allow you to intuitively see which situation calls for which data structure, just as you know to pick up a spoon when you see a bowl of soup.
+
+* This chapter explains the basic terms related to data structure.
+
+##Data Definition defines a particular data with the following characteristics.
+
+** Atomic − Definition should define a single concept.
+
+** Traceable − Definition should be able to be mapped to some data element.
+
+** Accurate − Definition should be unambiguous.
+
+** Clear and Concise − Definition should be understandable.
+
+####Data Object
+Data Object represents an object having a data.
+
+####Data Type
+Data type is a way to classify various types of data such as integer, string, etc. which determines the values that can be used with the corresponding type of data, the type of operations that can be performed on the corresponding type of data. There are two data types −
+
+* Built-in Data Type
+* Derived Data Type
