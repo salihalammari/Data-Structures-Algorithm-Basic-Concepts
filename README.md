@@ -1,4 +1,29 @@
-#Data-Structures-Algorithm-Basic-Concepts
+# Data-Structures-Algorithm-Basic-Concepts
+
+## what is an algorithm?
+
+Algoritm 
+	- A set of steps or instructions for completing a task. or a set of steps a program takes to finish a task.
+
+```bash
+print('Hello World)
+```
+
+### Linear Search
+For linear search the input can be generally described as a series of values and the output is a value matching the one we're looking for. but once we get to code we can actually tighten this up, once we have a problem an algorithm is a set of steps that solves this problem given that the next guideline is that an algorithm definition must contain a specific set of instructions in a particular order
+
+# Algorithm: 
+Should produce a result if it didn't how would we know whether the algorithm works or not 
+
+1. Start at beginning 
+2. Compare current value to target
+3. Move sequentially
+4. Reach end of list
+
+
+
+
+
 
 ##What is Data Structure:
 
